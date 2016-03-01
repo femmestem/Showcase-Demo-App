@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Showcase Demo App]]></title>
+  <link href="showcase-demo-app.herokuapp.com/atom.xml" rel="self"/>
+  <link href="showcase-demo-app.herokuapp.com/"/>
+  <updated>2016-03-01T05:08:07-08:00</updated>
+  <id>showcase-demo-app.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[Christine Feaster]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sample Blog Post]]></title>
+    <link href="showcase-demo-app.herokuapp.com/blog/2016/03/01/sample-blog-post/"/>
+    <updated>2016-03-01T12:00:00-08:00</updated>
+    <id>showcase-demo-app.herokuapp.com/blog/2016/03/01/sample-blog-post</id>
+    <content type="html"><![CDATA[<p>I generated this prestyled page by running command: <code>$ rake new_post["Sample Blog Post"]</code></p>
+
+<p>I write content that looks like this:</p>
+
+<hr>
+
+
+<div> 
+# Heading<br />
+ - Item 1<br />
+ - Item 2<br />
+ - Item 3<br />
+<br />
+ *sample code snippet*<br />
+<br />
+</div>
+
+
+<p>{% codeblock hello_world.rb %}<br />
+def hello_world<br />
+&nbsp;&nbsp;puts &ldquo;Hello world&rdquo;<br />
+end<br />
+{% endcodeblock %}<br /></p>
+
+<p><strong>Output:</strong></p>
+
+<hr>
+
+
+<h1>Heading</h1>
+
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ul>
+
+
+<p><em>sample code snippet</em></p>
+
+<figure class='code'><figcaption><span>hello_world.rb </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class='rb'><span class='line'><span class="k">def</span> <span class="nf">hello_world</span>
+</span><span class='line'>  <span class="nb">puts</span> <span class="s2">&quot;Hello world&quot;</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>

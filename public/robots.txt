@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: showcase-demo-app.herokuapp.com/sitemap.xml 

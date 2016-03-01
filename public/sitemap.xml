@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>showcase-demo-app.herokuapp.com/blog/2016/03/01/sample-blog-post/</loc>
+<lastmod>2016-03-01T12:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/404.html</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/blog/archives/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/blog/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/blog/categories/showcase/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/blog/categories/static-blogging/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/blog/categories/jekyll/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/portfolio/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/portfolio/sample-project-1/</loc>
+</url>
+<url>
+<loc>showcase-demo-app.herokuapp.com/portfolio/sample-project-2/</loc>
+</url>
+</urlset>
