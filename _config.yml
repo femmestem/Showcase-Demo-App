@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Showcase
-subtitle: a portfolio and blog site framework for hackers.
-author: Your Name
+url: https://showcase-demo-app.herokuapp.com
+title: Showcase Demo App
+subtitle: The portfolio and blog site framework for hackers.
+author: Christine Feaster
 simple_search: https://www.google.com/search
 description:
 
@@ -17,7 +17,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: /#
 # RSS feeds can list your email address if you like
 email:
 
