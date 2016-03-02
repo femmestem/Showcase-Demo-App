@@ -7,6 +7,8 @@ categories: [showcase, static blogging, jekyll]
 ---
 I generated this prestyled page by running command: `$ rake new_post["Sample Blog Post"]`
 
+<!--more-->
+
 I write content that looks like this:
 <hr>
 <div> 
